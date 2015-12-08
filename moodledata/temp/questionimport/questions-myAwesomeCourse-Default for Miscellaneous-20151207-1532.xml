@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>Default for Miscellaneous</text>
+
+    </category>
+  </question>
+
+<!-- question: 1  -->
+  <question type="ddwtos">
+    <name>
+      <text>adasda</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>asdasdasd?</p><p>&nbsp;[[1]]</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>sdfsdf</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>sdfsdf</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>sdfsd</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>sdfsdf</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>sdfsdf</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>sdfsdf</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3  -->
+  <question type="ddwtos">
+    <name>
+      <text>hkhjkhjkhj</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>hjkhjkhjk?</p><p>[[1]]</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>asdasdas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>asdasd</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxczxc</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>scxc</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxcz</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxczxc</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 2  -->
+  <question type="ddwtos">
+    <name>
+      <text>zczxczxczxc</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>zxczxczx?</p><p>[[1]]</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>asdasd</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>asd</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>xzxc</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxcz</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxc</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>zxczxc</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+</quiz>
